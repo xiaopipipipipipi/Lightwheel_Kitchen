@@ -1,4 +1,4 @@
-# 🧩 Lighwheel_Kitchen (Isaac Sim Ready)
+# 🧩 Lightwheel_Kitchen (Isaac Sim Ready)
 
 This folder contains a complete kitchen room scene designed for simulation and interaction in **NVIDIA Isaac Sim**. The assets include appliances, cabinets, and structural elements, all organized modularly for flexibility and reuse.
 
