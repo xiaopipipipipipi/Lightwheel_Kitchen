@@ -27,6 +27,15 @@ This folder contains a complete kitchen room scene designed for simulation and i
 
 ## 🚀 Usage
 
+```bash 
+git clone https://github.com/LightwheelAI/Lightwheel_Kitchen.git 
+
+cd Lightwheel_Kitchen 
+
+git lfs pull 
+```
+
+
 1. Open **Isaac Sim**.
 2. Use the Content browser to navigate to this directory.
 3. Double-click on `KitchenRoom.usd` to load the complete scene.
