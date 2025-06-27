@@ -2,6 +2,11 @@
 
 This folder contains a complete kitchen room scene designed for simulation and interaction in **NVIDIA Isaac Sim**. The assets include appliances, cabinets, and structural elements, all organized modularly for flexibility and reuse.
 
+**Lightwheel is hiring!** 
+
+If you're interested in joining our team, please contact Frank Chen: **ming.chen@lightwheel.ai**
+
+
 ## 📁 Folder Structure
 
 - `KitchenRoom.usd`  
